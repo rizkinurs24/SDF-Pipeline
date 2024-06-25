@@ -15,7 +15,7 @@ define(['N/search'],
          * @since 2015.2
          */
         const onRequest = (scriptContext) => {
-            //TEST update 2
+            //TEST
         }
 
         return {onRequest}
